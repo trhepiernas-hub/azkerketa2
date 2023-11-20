@@ -1,2 +1,2 @@
 # azkerketa2
-## JAVA 117 minimo jar fitxategia ejekutatzeko
+## JAVA 17 minimo jar fitxategia ejekutatzeko
